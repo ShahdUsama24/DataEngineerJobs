@@ -100,8 +100,8 @@ python -m streamlit run app/app.py
 ---
 
 ## Screenshots
+<img width="1896" height="1025" alt="image" src="https://github.com/user-attachments/assets/7ffe47b4-db40-444d-bb1c-53bdb796a178" />
 
-*(Optional: Add screenshots of the Streamlit dashboard here)*
 
 ```markdown
 ![Dashboard Preview](assets/dashboard.png)
